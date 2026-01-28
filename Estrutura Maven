@@ -1,0 +1,16 @@
+kanban-java-agile/
+├── pom.xml
+├── src/
+│   ├── main/
+│   │   └── java/
+│   │       └── br/
+│   │           └── sp/
+│   │               └── uninove/
+│   │                   └── kanban/
+│   │                       ├── KanbanApp.java
+│   │                       ├── Tarefa.java
+│   │                       └── GerenciadorTarefas.java
+│   └── test/
+│       └── java/
+│           └── TarefaTest.java
+└── README.md
